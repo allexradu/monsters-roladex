@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Check out this project at: https://allexradu.github.io/monsters-roladex/
+
 In the project directory, you can run:
 
 ### `yarn start`
